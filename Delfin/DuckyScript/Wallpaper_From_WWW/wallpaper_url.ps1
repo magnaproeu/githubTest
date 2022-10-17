@@ -1,4 +1,4 @@
-$url = "WALLPAPER URL HERE"
+$url = "https://github.com/magnaproeu/githubTest/blob/7268a2e4bd62758962a5e9ecce950a9cdf042042/Delfin/DuckyScript/Wallpaper_From_WWW/wall_01.jpg"
 
 $ext = $url.split(".")[-1]
 
